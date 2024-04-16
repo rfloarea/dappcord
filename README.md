@@ -19,7 +19,7 @@ This is a Discord clone with a blockchain twist. Users must mint NFTs in order t
 - [Express](https://expressjs.com/) (Node framework)
 - [Socket.io](https://socket.io/) (Client & server communication)
 
-## Helpful Steps for Setup
+## Before Setup
 - Install [NodeJS](https://nodejs.org/en/)
 
 ## Setting Up
