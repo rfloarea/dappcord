@@ -1,6 +1,6 @@
 # Dappcord
 
-## What is do?
+## What did I do?
 This is a Discord clone with a blockchain twist. Users must mint NFTs in order to join channels. Pretty cute. This has been my first step into writing smart contracts and building dapps. I really like it!
 
 ## What did I learn?
